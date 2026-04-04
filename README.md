@@ -11,7 +11,7 @@ A GitHub Actions workflow runs **every hour**, checks for new releases, and comm
 Copy this URL and paste it into your store's **Sources** tab:
 
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/source.json
+https://raw.githubusercontent.com/guishi165/ytlite-altsource/main/source.json
 ```
 
 > Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and the name you gave this repo.
