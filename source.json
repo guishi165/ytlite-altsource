@@ -1,0 +1,50 @@
+{
+  "name": "YTLiteDiarrhea",
+  "identifier": "com.diarrhea3.ytlitediarrhea.source",
+  "subtitle": "YouTube Plus (YTLite) builds by diarrhea3",
+  "description": "Automatically updated AltStore/SideStore source for YouTube Plus (YTLite) IPA builds from github.com/diarrhea3/YTLiteDiarrhea.",
+  "iconURL": "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr1.jpg",
+  "website": "https://github.com/diarrhea3/YTLiteDiarrhea",
+  "tintColor": "#FF0000",
+  "featuredApps": [
+    "com.google.ios.youtube"
+  ],
+  "apps": [
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "diarrhea3 / dayanch96",
+      "subtitle": "YouTube with 100+ enhancements",
+      "localizedDescription": "YouTube Plus (YTLite) is a flexible enhancer for YouTube on iOS.\n\n• Download videos, audio, thumbnails, posts and profile pictures\n• Interface customization: remove feed elements, reorder tabs, OLED mode, Shorts-only mode\n• Player settings: gestures, default quality, preferred audio track\n• Built-in SponsorBlock\n• YouPiP (Picture-in-Picture)\n• YTUHD (1440p / 4K unlock)\n• Return YouTube Dislikes\n• And much more!",
+      "iconURL": "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/icon.png",
+      "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr3.jpg"
+      ],
+      "versions": [
+        {
+          "version": "21.13.6",
+          "date": "2026-03-31",
+          "localizedDescription": "YouTube Plus v5.2b4 for YouTube 21.13.6",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/YouTubePlus_21.13.6_5.2b4.ipa",
+          "size": 0,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for video recording.",
+          "NSMicrophoneUsageDescription": "Used for video recording.",
+          "NSPhotoLibraryAddUsageDescription": "Used to save downloaded media.",
+          "NSPhotoLibraryUsageDescription": "Used to access media for uploads."
+        }
+      }
+    }
+  ],
+  "news": []
+}
