@@ -24,17 +24,6 @@
         "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr2.jpg",
         "https://raw.githubusercontent.com/diarrhea3/YTLiteDiarrhea/main/Resources/scr3.jpg"
       ],
-      "versions": [
-        {
-          "version": "21.13.6",
-          "date": "2026-03-31",
-          "localizedDescription": "YouTube Plus v5.2b4 for YouTube 21.13.6",
-          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/YouTubePlus_21.13.6_5.2b4.ipa",
-          "size": 0,
-          "minOSVersion": "16.0",
-          "maxOSVersion": "99.9"
-        }
-      ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
@@ -43,7 +32,189 @@
           "NSPhotoLibraryAddUsageDescription": "Used to save downloaded media.",
           "NSPhotoLibraryUsageDescription": "Used to access media for uploads."
         }
-      }
+      },
+      "versions": [
+        {
+          "version": "21.13.6",
+          "date": "2026-03-31",
+          "localizedDescription": "21.13.6 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-75/21.13.6_YouTubePlus_5.2b4.ipa",
+          "size": 126776343,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.12.4",
+          "date": "2026-03-24",
+          "localizedDescription": "21.12.4 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-74/21.12.4_YouTubePlus_5.2b4.ipa",
+          "size": 126656118,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.11.4",
+          "date": "2026-03-17",
+          "localizedDescription": "21.11.4 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-73/21.11.4_YouTubePlus_5.2b4.ipa",
+          "size": 126401534,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.10.2",
+          "date": "2026-03-10",
+          "localizedDescription": "21.10.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-72/21.10.2_YouTubePlus_5.2b4.ipa",
+          "size": 126259778,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.09.2",
+          "date": "2026-03-04",
+          "localizedDescription": "21.09.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-71/21.09.2_YouTubePlus_5.2b4.ipa",
+          "size": 126235033,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.08.3",
+          "date": "2026-02-27",
+          "localizedDescription": "21.08.3 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-70/21.08.3_YouTubePlus_5.2b4.ipa",
+          "size": 125969488,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.07.4",
+          "date": "2026-02-19",
+          "localizedDescription": "21.07.4 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-69/21.07.4_YouTubePlus_5.2b4.ipa",
+          "size": 125824898,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.06.2",
+          "date": "2026-02-12",
+          "localizedDescription": "21.06.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-68/21.06.2_YouTubePlus_5.2b4.ipa",
+          "size": 125806971,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.05.3",
+          "date": "2026-02-05",
+          "localizedDescription": "21.05.3 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-67/21.05.3_YouTubePlus_5.2b4.ipa",
+          "size": 125463308,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.04.2",
+          "date": "2026-01-29",
+          "localizedDescription": "21.04.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-66/21.04.2_YouTubePlus_5.2b4.ipa",
+          "size": 125206783,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.03.2",
+          "date": "2026-01-22",
+          "localizedDescription": "21.03.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-65/21.03.2_YouTubePlus_5.2b4.ipa",
+          "size": 125279672,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "21.02.3",
+          "date": "2026-01-15",
+          "localizedDescription": "21.02.3 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-63/21.02.3_YouTubePlus_5.2b4.ipa",
+          "size": 125050682,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.50.10",
+          "date": "2026-01-07",
+          "localizedDescription": "20.50.10 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-62/20.50.10_YouTubePlus_5.2b4.ipa",
+          "size": 124572276,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.50.9",
+          "date": "2025-12-19",
+          "localizedDescription": "20.50.9 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-61/20.50.9_YouTubePlus_5.2b4.ipa",
+          "size": 124571925,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.50.6",
+          "date": "2025-12-14",
+          "localizedDescription": "20.50.6 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-60/20.50.6_YouTubePlus_5.2b4.ipa",
+          "size": 124572875,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.49.5",
+          "date": "2025-12-10",
+          "localizedDescription": "20.49.5 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-59/20.49.5_YouTubePlus_5.2b4.ipa",
+          "size": 124889851,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.47.3",
+          "date": "2025-11-24",
+          "localizedDescription": "The YTUHD issue is now fixed.",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-58/20.47.3_YouTubePlus_5.2b4.ipa",
+          "size": 124174499,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.46.2",
+          "date": "2025-11-19",
+          "localizedDescription": "20.46.2 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-56/20.46.2_YouTubePlus_5.2b4.ipa",
+          "size": 124329207,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.45.3",
+          "date": "2025-11-13",
+          "localizedDescription": "This build still has YTUHD disabled as it still causes the settings crash, but not having it seems to make 0 difference, so it's fine for now. I'll keep building the apps without it until it's ever fixed.",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-55/20.45.3_YouTubePlus_5.2b4.ipa",
+          "size": 124004068,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
+          "version": "20.44.2",
+          "date": "2025-11-09",
+          "localizedDescription": "I'm not sure if everyone has this issue on the latest build, but opening the settings causes the app to crash. It turns out the issue stems from YTUHD, so I've compiled this build with YTUHD disabled and the issue is fixed.",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-53/20.44.2_YouTubePlus_5.2b4_alt.ipa",
+          "size": 123496500,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        }
+      ]
     }
   ],
   "news": []
