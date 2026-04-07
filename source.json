@@ -35,6 +35,15 @@
       },
       "versions": [
         {
+          "version": "21.14.4",
+          "date": "2026-04-07",
+          "localizedDescription": "21.14.4 YouTubePlus v5.2b4",
+          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-76/21.14.4_YouTubePlus_5.2b4.ipa",
+          "size": 126659293,
+          "minOSVersion": "16.0",
+          "maxOSVersion": "99.9"
+        },
+        {
           "version": "21.13.6",
           "date": "2026-03-31",
           "localizedDescription": "21.13.6 YouTubePlus v5.2b4",
@@ -202,15 +211,6 @@
           "localizedDescription": "This build still has YTUHD disabled as it still causes the settings crash, but not having it seems to make 0 difference, so it's fine for now. I'll keep building the apps without it until it's ever fixed.",
           "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-55/20.45.3_YouTubePlus_5.2b4.ipa",
           "size": 124004068,
-          "minOSVersion": "16.0",
-          "maxOSVersion": "99.9"
-        },
-        {
-          "version": "20.44.2",
-          "date": "2025-11-09",
-          "localizedDescription": "I'm not sure if everyone has this issue on the latest build, but opening the settings causes the app to crash. It turns out the issue stems from YTUHD, so I've compiled this build with YTUHD disabled and the issue is fixed.",
-          "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-53/20.44.2_YouTubePlus_5.2b4_alt.ipa",
-          "size": 123496500,
           "minOSVersion": "16.0",
           "maxOSVersion": "99.9"
         }
