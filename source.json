@@ -37,7 +37,7 @@
         {
           "version": "21.14.4",
           "date": "2026-04-07",
-          "localizedDescription": "This build crashes on launch for me, not sure if this is universal. Sticking with 21.13.6 until the issue is fixed.",
+          "localizedDescription": "This build crashes on launch for me, not sure if this is universal. Sticking with 21.13.6 until the issue is fixed.\n\nEdit: now that the v5.2 release is Patreon-exclusive, 21.13.6 may be the final working version of v5.2b4 unless the crashing issue is retroactively fixed (which it likely won't be).",
           "downloadURL": "https://github.com/diarrhea3/YTLiteDiarrhea/releases/download/ytp-76/21.14.4_YouTubePlus_5.2b4.ipa",
           "size": 126659293,
           "minOSVersion": "16.0",
